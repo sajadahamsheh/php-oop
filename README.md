@@ -26,7 +26,7 @@ For student class
 use dummy data 
 for student
 id : 123443
-email:sara@orange.com
+email:eva@orange.com
 name : Sara
 mobile_number :0777777777
 
@@ -34,7 +34,7 @@ For teacher Class
 use dummy data 
 id : 96432
 name : Sadi
-email:Sadi@orange.com
+email:adam@orange.com
 mobile_number :0777788888
 salary : 800
 subject : [English, Arabic, Math, science] 
